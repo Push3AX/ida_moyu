@@ -1,6 +1,6 @@
 # ida_moyu
 
-摸鱼🐟用的IDA插件，在Pseudocaode风格的窗口中浏览文本网页或者文件，看起来就像在用IDA工作。
+摸鱼🐟用的IDA插件，在Pseudocode窗口中浏览文本网页或者文件，看起来像正在用IDA工作。
 
 ### 安装
 
